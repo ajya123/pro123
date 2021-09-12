@@ -1,5 +1,5 @@
 package pro123;
- public class Main {
+ public class App {
   public static void main(String[] args) {
     int x = 5;
     int y = 3;
